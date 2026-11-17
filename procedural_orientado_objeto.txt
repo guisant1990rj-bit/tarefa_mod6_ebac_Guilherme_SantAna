@@ -1,0 +1,8 @@
+	Programação procedural e programção orientada ao objeto são paradigmas de programação que permitem
+organizar o código de acordo com a estrutura de pensamento, dando assim uma orientação em como escrever
+o programa
+	Programação procedural é a sequência de comandos que executa um programa, organizado em blocos
+estruturados que podem ser ativados quando necessários. São indicados para programação sequencial de média
+complexidade e que requer facilidade na manutenção.
+	Em contrapartida a Programação orientada ao objeto organiza o sistema e diversos blocos instanciados
+e independentes que consultam caso a informação necessaria seja de outro bloco

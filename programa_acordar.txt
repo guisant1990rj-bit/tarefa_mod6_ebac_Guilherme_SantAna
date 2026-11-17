@@ -1,0 +1,13 @@
+1>Acordo
+2>Checo o horario no celular
+	1>Se for antes das 7:00
+		1>Volto a dormir mais um pouco
+	2>Se for depois das 7:00 e antes das 8:00
+		1>Tomo café da manha com calma
+		2>Tomo banho
+		3>Troco de roupa
+	3>Se for depois das 8:00
+		1>Tomo café bem rapido
+		2>Troco de roupa
+3>Checo se estou com carteira celular e as chaves
+4>Saio de casa pro trabalho
